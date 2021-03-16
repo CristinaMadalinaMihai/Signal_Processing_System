@@ -1,0 +1,13 @@
+.\src\decimal_display.vhd
+.\src\square_wave.vhd
+.\src\stud1.vhd
+.\src\stud2.vhd
+.\src\prg_15.vhd
+.\src\prg_255.vhd
+.\src\adders.vhd
+.\src\sum.vhd
+.\src\clk_divider.vhd
+.\src\data_generator.vhd
+.\src\filter.vhd
+.\src\average.vhd
+.\src\clk_div_display.vhd

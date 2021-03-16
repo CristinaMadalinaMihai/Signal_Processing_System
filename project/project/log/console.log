@@ -1,0 +1,9 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Warning: Entity 'sum' instantiated in the architecture 'filter' was compiled after the compilation of this architecture.
+# ELBREAD: Warning: Entity 'square_wave' instantiated in the architecture 'generator' was compiled after the compilation of this architecture.
+# ELBREAD: Warning: Entity 'stud1' instantiated in the architecture 'generator' was compiled after the compilation of this architecture.
+# ELBREAD: Warning: Entity 'stud2' instantiated in the architecture 'generator' was compiled after the compilation of this architecture.
+# ELBREAD: Warning: Entity 'prg1' instantiated in the architecture 'generator' was compiled after the compilation of this architecture.
+# ELBREAD: Warning: Entity 'prg2' instantiated in the architecture 'generator' was compiled after the compilation of this architecture.
+# ELBREAD: Elaboration time 0.3 [s].
+# Design Explorer: Shortcut to "C:\Users\Gellert\Documents\An1-sem2\DSD\project\proiectt\project\project.aws" design added.

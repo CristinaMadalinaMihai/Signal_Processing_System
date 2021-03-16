@@ -1,0 +1,1 @@
+-w -s "C:\My_Designs\proiectt\project\library.cfg"  -j "C:\My_Designs\proiectt\project\project\projlib.cfg"  -d "C:\My_Designs\proiectt\project\project\compile\"  -work project -dbg -e 100 "C:\My_Designs\proiectt\project\project\src\clk_divider.vhd" 

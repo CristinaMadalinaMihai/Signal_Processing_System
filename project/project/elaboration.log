@@ -1,0 +1,30 @@
+elbread.dll ver. 1.0.5.365 Thu Feb 27 16:09:03 2020
+
+
+-------------------------------------
+Entity       | Architecture | Library
+-------------------------------------
+avg          | avg          | project
+generator    | generator    | project
+filter       | filter       | project
+display      | display      | project
+square_wave  | square_wave  | project
+stud1        | stud         | project
+stud2        | student2     | project
+prg1         | prg1         | project
+prg2         | prg2         | project
+clk_div      | div          | project
+sum          | sum          | project
+adder        | adders       | project
+clk_display  | clk_display  | project
+-------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+std_logic_1164      | ieee
+std_logic_arith     | ieee
+numeric_std         | ieee
+std_logic_unsigned  | ieee
+-----------------------------

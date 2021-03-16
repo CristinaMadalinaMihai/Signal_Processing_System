@@ -1,0 +1,65 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=project
+
+[Library]
+project=.\project.lib
+
+[$LibMap$]
+project=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+CDebugWatchList=
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=avg|avg|0   
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/decimal_display.vhd=-1
+/square_wave.vhd=-1
+/stud1.vhd=-1
+/stud2.vhd=-1
+/prg_15.vhd=-1
+/prg_255.vhd=-1
+/adders.vhd=-1
+/sum.vhd=-1
+/clk_divider.vhd=-1
+/data_generator.vhd=-1
+/filter.vhd=-1
+/average.vhd=-1
+/clk_div_display.vhd=-1
+
+[Files.Data]
+.\src\decimal_display.vhd=VHDL Source Code
+.\src\square_wave.vhd=VHDL Source Code
+.\src\stud1.vhd=VHDL Source Code
+.\src\stud2.vhd=VHDL Source Code
+.\src\prg_15.vhd=VHDL Source Code
+.\src\prg_255.vhd=VHDL Source Code
+.\src\adders.vhd=VHDL Source Code
+.\src\sum.vhd=VHDL Source Code
+.\src\clk_divider.vhd=VHDL Source Code
+.\src\data_generator.vhd=VHDL Source Code
+.\src\filter.vhd=VHDL Source Code
+.\src\average.vhd=VHDL Source Code
+.\src\clk_div_display.vhd=VHDL Source Code
+

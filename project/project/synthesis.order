@@ -1,0 +1,15 @@
+i<>.\src\prg_255.vhd
+i<>.\src\prg_15.vhd
+i<>.\src\student.vhd
+i<>.\src\square_wave.vhd
+i<>.\src\stud2.vhd
+i<>.\src\stud1.vhd
+i<>.\src\adders.vhd
+i<>.\src\sum.vhd
+i<>.\src\average.vhd
+i<>.\src\clk_divider.vhd
+i<>.\src\data_generator.vhd
+i<>.\src\cica_afisare.vhd
+i<>.\src\filter.vhd
+i<>.\src\clk_div_display.vhd
+i<>.\src\decimal_display.vhd

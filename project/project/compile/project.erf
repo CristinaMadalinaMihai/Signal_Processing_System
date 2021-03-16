@@ -1,0 +1,5 @@
+MESSAGE "File: C:\My_Designs\proiectt\project\project\src\clk_divider.vhd" 
+MESSAGE "Compile Entity "clk_div"" 
+MESSAGE "Entity `clk_div' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "div" of Entity "clk_div"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 
